@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there! My name is Bianca👋</h1>
 
 <p align="center">
   Passionate about creating whole worlds out of pages and lines of code. ✨
