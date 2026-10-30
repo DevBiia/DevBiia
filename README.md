@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Still learning
 
 ### 🐍 Back-end
 
