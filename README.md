@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! My name is Bianca👋</h1>
+# Hi there! 👋
 
 <p align="center">
   Passionate about creating whole worlds out of pages and lines of code. ✨
@@ -26,9 +26,9 @@ HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap, responsive design.
 
 ### 🧰 Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=postman,swagger,git,github" alt="Tools icons" />
+<img src="https://skillicons.dev/icons?i=postman,swagger,git,github,redis" alt="Tools icons" />
 
-Django REST Framework, Django ORM, SQLAlchemy, JWT authentication, Swagger (OpenAPI), Postman, Git, GitHub.
+Django REST Framework, Django ORM, Redis, JWT authentication, Swagger (OpenAPI), Postman, Git, GitHub.
 
 ### 🧪 Unit Testing
 
