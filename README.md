@@ -26,7 +26,7 @@ HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap, responsive design.
 
 ### 🧰 Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=postman,swagger,git,github,redis" alt="Tools icons" />
+<img src="https://skillicons.dev/icons?i=postman,git,github,redis" alt="Tools icons" />
 
 Django REST Framework, Django ORM, Redis, JWT authentication, Swagger (OpenAPI), Postman, Git, GitHub.
 
