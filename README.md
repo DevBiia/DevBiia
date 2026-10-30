@@ -34,9 +34,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats-one.vercel.app/api?username=BiiaBraga&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true" />
+   <img src="https://github-readme-stats-one.vercel.app/api?username=DevBiia&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiiaBraga&theme=dracula&locale=pt-br" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevBiia&theme=dracula&locale=pt-br" />
   
 </div>
 
