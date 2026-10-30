@@ -33,10 +33,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevBiia&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBiia&layout=compact&theme=radical" alt="Most used languages" />
-</p>
+<div align="center">
+   <img src="https://github-readme-stats-one.vercel.app/api?username=BiiaBraga&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&count_private=true" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiiaBraga&theme=dracula&locale=pt-br" />
+  
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevBiia&theme=radical" alt="GitHub streak" />
