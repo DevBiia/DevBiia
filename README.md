@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋</h1>
 
-<!--
-**DevBiia/DevBiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about creating whole worlds in the form of pages and lines of code. ✨
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Tech lover &nbsp;|&nbsp; 🐱 Cat mom
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Python, HTML, CSS, JavaScript" />
+</p>
+
+- 🐍 **Python**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
+
+---
+
+## 🌱 Currently learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,mysql" alt="Currently learning" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 💜
+</p>
