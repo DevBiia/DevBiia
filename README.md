@@ -7,17 +7,16 @@
 <p align="center">
   💻 Tech lover &nbsp;|&nbsp; 🐱 Cat mom
 </p>
----
 
 ## 🛠️ Skills & Tech Stack
+
+---
 
 ### ⚙️ DevOps & Automation
 
 <img src="https://skillicons.dev/icons?i=linux,aws" alt="Linux and AWS icons" />
 
 Linux, AWS concepts.
-
----
 
 ## 🛠️ Still learning
 
