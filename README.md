@@ -10,8 +10,6 @@
 
 ## 🛠️ Skills & Tech Stack
 
----
-
 ### ⚙️ DevOps & Automation
 
 <img src="https://skillicons.dev/icons?i=linux,aws" alt="Linux and AWS icons" />
