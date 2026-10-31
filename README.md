@@ -59,6 +59,13 @@ pip, venv, Poetry, Visual Studio Code, PyCharm.
 Clean Code, SOLID, layered architecture, MVC/MVT, design patterns, agile methodologies, Scrum, Kanban, technical documentation.
 
 ---
+### 🛠️ Skills & Tech Stack
+
+<img src="https://skillicons.dev/icons?i=linux,aws" alt="Linux and AWS icons" />
+
+Linux, AWS concepts.
+
+---
 
 ## 📊 GitHub Stats
 
